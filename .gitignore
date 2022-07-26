@@ -1,1 +1,9 @@
 videos/
+
+
+#COMMON CONFIGs
+.src_port
+.webpack_watch.log
+*.swp
+*.swo
+.DS_Store
